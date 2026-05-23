@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-neo-candy-arc-mint-grey
 
 Mint-grey variant of the Neo-Candy Arc icon family — colourful icons in a cool grey palette tuned to pair with Mint-style Arc GTK themes. Part of the `~/EDU/` Neo-Candy series.
